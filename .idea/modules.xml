@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EffectiveJavaExamples.iml" filepath="$PROJECT_DIR$/EffectiveJavaExamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Item1-StaticFactoryMethods/Item1-StaticFactoryMethods.iml" filepath="$PROJECT_DIR$/Item1-StaticFactoryMethods/Item1-StaticFactoryMethods.iml" />
+    </modules>
+  </component>
+</project>
